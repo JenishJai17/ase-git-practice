@@ -5,3 +5,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+print("This is a simple program that greets the user by name.")
